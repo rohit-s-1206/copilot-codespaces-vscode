@@ -59,6 +59,7 @@ jobs:
         with:
           file: ".devcontainer/devcontainer.json"
           search: "GitHub.copilot"
+          
 
       # In README.md, switch step 1 for step 2.
       - name: Update to step 2
